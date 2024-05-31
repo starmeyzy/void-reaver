@@ -1,0 +1,10 @@
+img{
+  width: 200px;
+  height: 150px;
+  position: absolut:
+  top: 100px;
+  left:200px;
+  border:5px double gold;
+  border-radius: 10px
+  trsnsition: 10s all;
+}
